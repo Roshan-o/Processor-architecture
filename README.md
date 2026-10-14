@@ -1,4 +1,4 @@
-```markdown
+
 # Processor Architecture
 
 A Verilog-based processor design project implementing a RISC-V-inspired architecture with both sequential and pipelined execution models. The project focuses on digital design fundamentals, datapath/control logic, pipelining, hazard resolution, and simulation-based verification.
